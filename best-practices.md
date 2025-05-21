@@ -1,0 +1,1 @@
+# Best practices (naming conventions, variable declarations, modules, etc.)

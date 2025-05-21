@@ -1,1 +1,28 @@
 # js-collection
+
+## Table of Contents
+
+1. [var, let, const difference](./var-let-const.md)
+2. [Cycles: while, for](./cycles.md)
+3. [Conditions: If statement, Abstract Equality Comparison vs Strict Equality Comparison](./conditions.md)
+4. [Data types](./data-types.md)
+5. [Type conversion](./type-conversion.md)
+6. [Basic browser API: alert, prompt, confirm](./browser-api.md)
+7. [Functions: function declaration, function expression, callbacks](./functions.md)
+8. [Arrays, forEach, map, filter, reduce, push, pop, etc.](./arrays.md)
+9. [Objects: Constructor, New, this, binding this, computed fields, Object.keys, Object.values, copying, Object.assign(), comparing](./objects.md)
+10. [Error Handling (try/catch)](./error-handling.md)
+11. [Timers: setTimeout, setInterval](./timers.md)
+12. [EventLoop basics](./eventloop.md)
+13. [Callstack](./callstack.md)
+14. [Recursion](./recursion.md)
+15. [ES6+ (arrow functions, spread operator)](./es6plus.md)
+16. [JSON serialize/deserialize](./json.md)
+17. [Date object](./date.md)
+18. [HTTP: GET/POST requests](./http.md)
+19. [Promises](./promises.md)
+20. [LocalStorage](./localstorage.md)
+21. [Cookies](./cookies.md)
+22. [NPM basics](./npm.md)
+23. [Environment Variables](./env.md)
+24. [Best practices (naming conventions, variable declarations, modules, etc.)](./best-practices.md)
