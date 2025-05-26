@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-1. [var, let, const difference](./var-let-const.md)
-2. [Cycles: while, for](./cycles.md)
-3. [Conditions: If statement, Abstract Equality Comparison vs Strict Equality Comparison](./conditions.md)
-4. [Data types](./data-types.md)
-5. [Type conversion](./type-conversion.md)
-6. [Basic browser API: alert, prompt, confirm](./browser-api.md)
+1. ✅ [var, let, const difference](./var-let-const.md)
+2. ✅ [Cycles: while, for](./cycles.md)
+3. ✅ [Conditions: If statement, Abstract Equality Comparison vs Strict Equality Comparison](./conditions.md)
+4. ✅ [Data types](./data-types.md)
+5. ✅ [Type conversion](./type-conversion.md)
+6. ✅ [Basic browser API: alert, prompt, confirm](./browser-api.md)
 7. [Functions: function declaration, function expression, callbacks](./functions.md)
 8. [Arrays, forEach, map, filter, reduce, push, pop, etc.](./arrays.md)
 9. [Objects: Constructor, New, this, binding this, computed fields, Object.keys, Object.values, copying, Object.assign(), comparing](./objects.md)
