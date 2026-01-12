@@ -1,0 +1,9 @@
+{
+  "name": "js-collection",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo:arrays": "node array-methods-demo.mjs"
+  }
+}
+
